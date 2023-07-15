@@ -1,6 +1,6 @@
 # Welcome to DrSight's GitHub Repository! 🌟
 
-![Organization Logo](https://example.com/logo.png)
+![Organization Logo](https://res.cloudinary.com/dflkan5fc/image/upload/v1688746561/assets/favicons/android-chrome-512x512_trzyua.png)
 
 👋 Hello and welcome to DrSight's GitHub repository! We are thrilled to have you here. 🎉
 
